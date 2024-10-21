@@ -19,11 +19,13 @@ pip install -r requirements.txt
 ```pip
 pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 ```
-## 介绍以及使用细节(How to use)
-- 支持长对话， 但有次数限制，不建议超过40，会影响访问速度，在GPT.py修改
-- 支持上传文件, 仅局限于pdf, docx, txt, 无法解析图像
-- 可提前指定系统的偏向(例如: 你擅长使用python编程)
-- 支持GUI(pyhton tkinter实现)
+## 介绍以及使用(How to use)
+- 支持长对话   (消息日志但有次数限制，不建议超过40，会影响访问速度，在GPT.py修改
+- 支持上传文件 (仅局限于pdf, docx, txt后缀, 无法解析图像
+- 支持markdown部分语法解析( 标题，加粗，斜体，代码块内部
+- 支持GUI(python tkinter实现)
+- 可提前指定系统的偏向(例如: 你擅长使用python编程
+
 
 
 
