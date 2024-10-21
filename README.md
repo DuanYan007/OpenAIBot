@@ -2,6 +2,8 @@
 #### **When you only have the api_key about the OpenAi, the OpenAIBot will help you use OpenAi more convinient**
 #### **(当你只拥有OpenAi的api_key时， OpenAIBot将帮助你更方便地使用OpenAi)**
 ps: 无法直连openai的，请设置全局代理
+
+ps：如有其他需求或bug, 可联系2907762730@qq.com
 ## 配置(Config)
 ### 1. 环境变量配置
 cmd 操作(operation)
@@ -25,8 +27,16 @@ pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 - 支持markdown部分语法解析( 标题，加粗，斜体，代码块内部
 - 支持GUI(python tkinter实现)
 - 可提前指定系统的偏向(例如: 你擅长使用python编程
+### exp1
+![image](https://github.com/user-attachments/assets/83969fcf-061c-4bed-8c2f-58c15b56c2ce)
+### exp2
+![image](https://github.com/user-attachments/assets/29b6e719-69ee-41a6-97c2-4d2f3dadc8e0)
+### exp3
+![image](https://github.com/user-attachments/assets/5594104f-cf81-4ab1-a386-944662d5d27a)
+### exp4
+![image](https://github.com/user-attachments/assets/a6022207-f9b5-4d21-b0ec-922afe07d770)
 
 
 
 
-
+# 祝大家生活愉快
